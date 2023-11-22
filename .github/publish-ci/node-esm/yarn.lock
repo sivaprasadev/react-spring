@@ -86,7 +86,7 @@ __metadata:
     "@react-spring/web": "*"
     react: ^18.2.0
     react-dom: ^18.2.0
-    resolve-esm: ^1.4.0
+    resolve-esm: ^1.4.2
   languageName: unknown
   linkType: soft
 
@@ -129,12 +129,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"resolve-esm@npm:^1.4.0":
-  version: 1.4.0
-  resolution: "resolve-esm@npm:1.4.0"
+"resolve-esm@npm:^1.4.2":
+  version: 1.4.2
+  resolution: "resolve-esm@npm:1.4.2"
   dependencies:
     callsites: ~4.0.0
-  checksum: f0e1fad4c49abe41012ec9f59958d9d8d356b12c92a784765b6d69f8dccd07a609656f83a86278c76b579a953b02b893d3c3ea7c2ad2be607b15d7f0c942b8f8
+  checksum: e8146a44ef89f83f193ca62d1768ccbf33a9e123eb7f39f5a8bde9399f8e50fc2ae17eac8d93d6a8980ec477e585c5f45941ebd1cb6ffcd053934cb31a7b212c
   languageName: node
   linkType: hard
 
